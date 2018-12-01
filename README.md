@@ -22,8 +22,5 @@ This is a basic prototype for making sixth sense. This code would allow you to a
  
  ![alt text](https://github.com/infochirag/opencvmousecontroller/blob/master/src/Screenshot%20from%202018-12-01%2018-47-12.png "Third image")
  
- ![alt text](https://github.com/infochirag/opencvmousecontroller/blob/master/src/Screenshot%20from%202018-12-01%2018-47-12.png "Fourth image")
- 
- ![alt text](https://github.com/infochirag/opencvmousecontroller/blob/master/src/Screenshot%20from%202018-12-01%2018-47-12.png "Fifth image")
  #### We have included a youtube link to see us in action.
  
