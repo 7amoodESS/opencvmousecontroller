@@ -9,7 +9,7 @@
 ![Goal](https://img.shields.io/liberapay/goal/Changaco.svg)
 
 ### License
-![License](https://img.shields.io/npm/l/:package.svg)
+![License](https://img.shields.io/cocoapods/l/AFNetworking.svg)
 ![Package](https://img.shields.io/pypi/v/nine.svg)
 
 ### Support
