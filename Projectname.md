@@ -6,6 +6,6 @@
           {Yash Joshi : yashashujoshi@gmail.com}
           {Kushal Sharma: sharmakushal2k@gmail.com}
 
-[Devpost Link]: https://devpost.com/software/opencvmousecontroller
+[Devpost Link]: {https://devpost.com/software/opencvmousecontroller}
 
-[Github Link]: https://github.com/infochirag/opencvmousecontroller
+[Github Link]: {https://github.com/infochirag/opencvmousecontroller}
