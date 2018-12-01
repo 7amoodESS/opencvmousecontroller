@@ -1,4 +1,19 @@
-# opencvmousecontroller
+# opencvmousecontroller 
+
+### Build Status
+
+![Travis build](https://img.shields.io/appveyor/ci/:user/:repo.svg) 
+![Ainvayi](https://img.shields.io/david/expressjs/express.svg)
+
+### Goal Pocess
+![Goal](https://img.shields.io/liberapay/goal/Changaco.svg)
+
+### License
+![License](https://img.shields.io/npm/l/:package.svg)
+![Package](https://img.shields.io/pypi/v/nine.svg)
+
+### Support
+![Support](https://img.shields.io/node/v/@stdlib/stdlib/latest.svg)
 
 This is a basic prototype for making sixth sense. This code would allow you to access your mouse with hands using your laptops's camera. For further extensions we will integrate it with sound and speakers for making it accessible for blind people.
  
